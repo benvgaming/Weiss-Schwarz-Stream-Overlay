@@ -7,3 +7,7 @@ Do not remove any of the folders/files and do not move the .exe into a different
 The function that loads the hexagonal card image only works for cards that exist in the card database on the official japanese Weiss Schwarz website.
 Why doesn't the english site work? 
 Cuz the english website sucks. :)
+
+Why are there 2 separate "New Game" buttons, 1 for each player?
+Cuz this is the first time I've worked with classes in python and I couldn't work out how to reset with a single button, so I put the "New Game" button into the same class as each player.
+If you know how I could do that please let me know and I'll try to update the Overlay.
