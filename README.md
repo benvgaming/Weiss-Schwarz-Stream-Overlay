@@ -9,7 +9,7 @@ My second ever python project. I tried my hand at making a little stream overlay
 Do not remove any of the folders/files and do not move the .exe into a different folder, the program will not work.
 
 After downloading both the WS_Stream_Overlay.zip AND WS_Stream_Overlay_Images.zip files extract both of them into the same folder.
-In the end it should look like this or it will not work:
+In the end it should look like this:
 
 ![image](https://github.com/user-attachments/assets/b86d51ff-4f6f-4828-bcf0-51f130b432db)
 
