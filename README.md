@@ -5,6 +5,7 @@
 
 
 My second ever python project. I tried my hand at making a little stream overlay for my friend Weissandchill for Weiss Schwarz that displays the Playername, current Clock and Level of the players and which sets they are playing. This is also the first time I've ever used tkinter, so don't expect too much please.
+The images that display the clock and level have been made by Weissandchill.
 
 Do not remove any of the folders/files and do not move the .exe into a different folder, the program will not work.
 
