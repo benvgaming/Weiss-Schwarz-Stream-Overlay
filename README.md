@@ -11,7 +11,8 @@ Do not remove any of the folders/files and do not move the .exe into a different
 After downloading both the WS_Stream_Overlay.zip AND WS_Stream_Overlay_Images.zip files extract both of them into the same folder.
 In the end it should look like this or it will not work:
 
-![image](https://github.com/user-attachments/assets/6047e5de-f80f-4bb9-8ee6-b84738da8a85)
+![image](https://github.com/user-attachments/assets/b86d51ff-4f6f-4828-bcf0-51f130b432db)
+
 
 
 The function that loads the hexagonal card image only works for cards that exist in the card database on the official japanese Weiss Schwarz website.
