@@ -6,7 +6,12 @@
 
 My second ever python project. I tried my hand at making a little stream overlay for my friend Weissandchill for Weiss Schwarz that displays the Playername, current Clock and Level of the players and which sets they are playing. This is also the first time I've ever used tkinter, so don't expect too much please.
 
-Do not remove any of the folders/files and do not move the .exe into a different folder, the program will not wortk.
+Do not remove any of the folders/files and do not move the .exe into a different folder, the program will not work.
+
+After downloading both the WS_Stream_Overlay.zip AND WS_Stream_Overlay_Images.zip files extract both of them into the same folder.
+In the end it should look like this or it will not work:
+![image](https://github.com/user-attachments/assets/6047e5de-f80f-4bb9-8ee6-b84738da8a85)
+
 
 The function that loads the hexagonal card image only works for cards that exist in the card database on the official japanese Weiss Schwarz website.
 Why doesn't the english site work? 
