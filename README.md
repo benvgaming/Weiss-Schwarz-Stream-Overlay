@@ -10,6 +10,7 @@ Do not remove any of the folders/files and do not move the .exe into a different
 
 After downloading both the WS_Stream_Overlay.zip AND WS_Stream_Overlay_Images.zip files extract both of them into the same folder.
 In the end it should look like this or it will not work:
+
 ![image](https://github.com/user-attachments/assets/6047e5de-f80f-4bb9-8ee6-b84738da8a85)
 
 
