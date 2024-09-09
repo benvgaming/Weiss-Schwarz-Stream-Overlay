@@ -1,4 +1,4 @@
-# Weiss-Schwarz-Stream-Overlay-V1.0
+# Weiss-Schwarz-Stream-Overlay
 
 ![image](https://github.com/user-attachments/assets/8dcf5e0e-57e5-4245-9dbf-66486271ba56)
 
