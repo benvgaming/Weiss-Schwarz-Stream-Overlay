@@ -24,6 +24,4 @@ Why are there 2 separate "New Game" buttons, 1 for each player?
 Cuz this is the first time I've worked with classes in python and I couldn't work out how to reset with a single button, so I put the "New Game" button into the same class as each player.
 If you know how I could do that please let me know and I'll try to update the Overlay.
 
-The Shiyoko image is a placeholder until the user inputs a valid card code to load. Should the loading fail the program will default back to the Shiyoko.
-I did not test every single image in the japanese card database, but the load should work if you input a valid card code. The exception might be some random very old cards.
-If you encounter any problems please let me know.
+Please let me know if you encounter any issues.
