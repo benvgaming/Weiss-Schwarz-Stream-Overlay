@@ -59,7 +59,7 @@ class Player1(ttk.Frame):
         self.entry_btn2.grid(row=1, column=2)
 
         # Player Key Card
-        self.lbl_key_card = ttk.Label(self, text="Input JP Card ID (e.g.: HOL/W104-070)")
+        self.lbl_key_card = ttk.Label(self, text="Input Card ID (e.g.: HOL/W104-070)")
         self.lbl_key_card.grid(row=2, column=0)
         self.entry_key_card = ttk.Entry(self)
         self.entry_key_card.grid(row=2, column=1)
@@ -232,7 +232,7 @@ class Player2(ttk.Frame):
         self.entry_btn2.grid(row=1, column=2)
 
         # Player Key Card
-        self.lbl_key_card = ttk.Label(self, text="Input JP Card ID (e.g.: HOL/W104-070)")
+        self.lbl_key_card = ttk.Label(self, text="Input Card ID (e.g.: HOL/W104-070)")
         self.lbl_key_card.grid(row=2, column=0)
         self.entry_key_card = ttk.Entry(self)
         self.entry_key_card.grid(row=2, column=1)
