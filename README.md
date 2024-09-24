@@ -1,6 +1,7 @@
 # Weiss-Schwarz-Stream-Overlay
 
-![image](https://github.com/user-attachments/assets/8dcf5e0e-57e5-4245-9dbf-66486271ba56)
+![image](https://github.com/user-attachments/assets/2a6909b5-74c7-43c5-93f2-3846dc888a8e)
+
 
 
 
@@ -18,10 +19,5 @@ In the end it should look like this:
 
 The script that loads the card image only works for japanese cards and english exclusive sets. If you input anything else or an invalid card code the script will default back to the shiyoko image.
 The function that loads the hex-image might take a while, because it has to cycle through all the possible url configurations on the english website and check if they're valid or not.
-
-
-Why are there 2 separate "New Game" buttons, 1 for each player?
-Cuz this is the first time I've worked with classes in python and I couldn't work out how to reset with a single button, so I put the "New Game" button into the same class as each player.
-If you know how I could do that please let me know and I'll try to update the Overlay.
 
 Please let me know if you encounter any issues.
